@@ -1,0 +1,6 @@
+{
+    "kube-context": "openshift-context",
+    "kube-job-template-path": "kubernetes_job_template.yaml",
+    "repository-uri": "quay.io/aliabdallah2001/kto/train/cats-dogs-other-2023-2024"
+
+  }
